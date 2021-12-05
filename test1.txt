@@ -8,3 +8,7 @@ Test (push)
 7.git status
 8.git commit -m "Filename"
 9.git push -u origin "and your bluetext on your terminal"
+
+
+
+"example To learn 
