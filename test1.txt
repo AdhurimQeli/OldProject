@@ -1,1 +1,10 @@
 Test (push)
+1.Create folder on your c:
+2.bash use that folder with cd
+3. git config --global user.name "Your name"
+4.git config --global user.email email@
+5.git clone your resp....
+6.git add ..
+7.git status
+8.git commit -m "Filename"
+9.git push -u origin "and your bluetext on your terminal"
